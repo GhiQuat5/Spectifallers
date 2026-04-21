@@ -1,0 +1,2 @@
+# Spectifallers
+An discord server.
